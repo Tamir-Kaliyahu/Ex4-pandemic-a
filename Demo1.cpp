@@ -4,7 +4,7 @@
  * Author: Erel Segal-Halevi
  * Since : 2021-04
  */
-
+#pragma once
 #include "Board.hpp"
 #include "City.hpp"
 #include "Color.hpp"
